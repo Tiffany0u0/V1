@@ -67,6 +67,12 @@
             <mxPoint x="19" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="l560UlWYSltytxxpTdn5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="H5XLg-262uGlo7exfHj2-715" target="H5XLg-262uGlo7exfHj2-717">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514.5" y="230" as="sourcePoint" />
+            <mxPoint x="559.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H5XLg-262uGlo7exfHj2-721" value="Architecture: 緯育大數據專案-專題" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="215" y="70" width="740" height="40" as="geometry" />
         </mxCell>
