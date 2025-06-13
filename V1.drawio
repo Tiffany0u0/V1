@@ -29,17 +29,6 @@
         <mxCell id="H5XLg-262uGlo7exfHj2-721" value="Architecture: 緯育大數據專案-專題" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="215" y="70" width="740" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H5XLg-262uGlo7exfHj2-722" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=center;dashed=0;startArrow=blockThin;" parent="1" source="H5XLg-262uGlo7exfHj2-729" target="H5XLg-262uGlo7exfHj2-735" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H5XLg-262uGlo7exfHj2-724" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#9E9E9E;strokeWidth=2;fontSize=12;fontColor=#000000;align=center;dashed=0;startArrow=blockThin;" parent="1" source="H5XLg-262uGlo7exfHj2-719" target="H5XLg-262uGlo7exfHj2-717" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="755" y="360" />
-              <mxPoint x="755" y="360" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H5XLg-262uGlo7exfHj2-729" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="1" vertex="1">
           <mxGeometry x="275" y="329" width="165" height="60" as="geometry" />
         </mxCell>
