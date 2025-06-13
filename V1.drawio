@@ -23,6 +23,9 @@
         <mxCell id="l560UlWYSltytxxpTdn5-4" value="資料收集" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" vertex="1" parent="H5XLg-262uGlo7exfHj2-715">
           <mxGeometry x="222.2282502768549" y="80" width="138.6293023255814" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="l560UlWYSltytxxpTdn5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="H5XLg-262uGlo7exfHj2-715" source="l560UlWYSltytxxpTdn5-5" target="H5XLg-262uGlo7exfHj2-735">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l560UlWYSltytxxpTdn5-5" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="H5XLg-262uGlo7exfHj2-715">
           <mxGeometry x="232.53285714285713" y="199" width="118.02619047619046" height="60" as="geometry" />
         </mxCell>
